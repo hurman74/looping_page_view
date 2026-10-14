@@ -6,6 +6,10 @@ version: 0.1.0
 repository: https://github.com/hurman74/looping_page_view
 issue_tracker: https://github.com/hurman74/looping_page_view/issues
 
+screenshots:
+  - description: Tapping next on the last card loops back to the first, with the page dots following.
+    path: doc/demo.gif
+
 topics:
   - pageview
   - carousel

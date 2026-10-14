@@ -8,6 +8,10 @@ wraps around, and `animateToPage(2)` takes the shortest way round. So page indic
 other widgets that take a `PageController` keep working. You can also turn looping off and
 on, or add and remove items, while the view is on screen.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hurman74/looping_page_view/main/doc/demo.gif" width="320" alt="A carousel of numbered cards. Tapping next goes from card 1 to card 5, then on to card 1 again with a normal slide instead of a jump back, while the page dots and the 'Card 1 of 5' label follow the wrap">
+</p>
+
 ## Install
 
 ```sh
