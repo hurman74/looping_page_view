@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Add a demo GIF to the README and pub.dev screenshots. No code changes.
+
 ## 0.1.0
 
 - Initial release: `LoopingPageView` (`.builder` and a `children` constructor) and

@@ -2,7 +2,7 @@ name: looping_page_view
 description: >-
   A Flutter PageView that loops: swipe past the last page to reach the first,
   and back. Its controller reports real item indexes, so page indicators work.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/hurman74/looping_page_view
 issue_tracker: https://github.com/hurman74/looping_page_view/issues
 
